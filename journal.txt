@@ -1,0 +1,5 @@
+Practice journal
+================
+Add an entry each time you practice. One line is plenty.
+
+2026-06-12  Set up the practice repo. The journal begins.
